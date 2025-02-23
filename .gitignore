@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules
+.env
+
+# Vite build files
+client/dist
+
+# Logs & cache
+logs
+*.log
