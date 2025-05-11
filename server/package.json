@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",         // for production (Render will use this)
+  "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
